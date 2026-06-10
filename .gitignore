@@ -1,0 +1,15 @@
+# Temporary translation artifacts
+fr.txt
+he.txt
+final.txt
+final_v2.txt
+audit_report.txt
+
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
